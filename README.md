@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Ghoul](https://media4.giphy.com/media/enrJj5p6lJD9WoFegD/200.webp?cid=790b76116aisn962asif66guyuqpvyafqkitm47ueids4zq9&ep=v1_gifs_search&rid=200.webp&ct=g)
 # 💫 About Me:
 C/JS
 
